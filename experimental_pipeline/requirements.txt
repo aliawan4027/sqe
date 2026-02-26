@@ -5,3 +5,5 @@ matplotlib
 numpy
 scipy
 seaborn
+fastapi
+uvicorn
