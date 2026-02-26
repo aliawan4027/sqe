@@ -1,9 +1,0 @@
-sentence-transformers
-scikit-learn
-pandas
-matplotlib
-numpy
-scipy
-seaborn
-fastapi
-uvicorn
